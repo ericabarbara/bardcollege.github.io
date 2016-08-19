@@ -1,6 +1,6 @@
 body {
-    background-color: ryb(22, 22, 22);
-    color: pink;
+    background-color: rb(22, 22, 22);
+    color: linen;
     font-size: 200%;
     line-height: 1.4;
 }
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rb(206, 216, 167);
 }
 
 h2{
